@@ -1,1 +1,0 @@
-my first mini project to learn foundations and basics of React
