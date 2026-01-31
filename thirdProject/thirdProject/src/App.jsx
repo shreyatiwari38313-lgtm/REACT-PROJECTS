@@ -18,12 +18,12 @@ function App() {
       {/* <Card description ='HelloWorld! from react' />
        <Card description ='HelloWorld! from react' someObj ={myObj} />
       <Card description ='HelloWorld! from react' someObj ={newArr} /> */}
-
+   <div className='flex justify-center gap-2'> 
        <Card description ='Shreya Tiwari' btnText='Click me' />
 
        <Card description='Sohni Ahuja' btnText = 'Visit me' />
 
-
+   </div>
 
 
 
